@@ -3,10 +3,7 @@ package org.problems.easy;
 import java.util.*;
 
 public class RemoveLetterToEqualizeFrequency {
-    public static void main(String[] args) {
-        System.out.println(equalFrequency("aaaabbbbccccc"));
-    }
-    public static boolean equalFrequency(String word) {
+    public boolean equalFrequency(String word) {
         Map<Character, Integer> count = new HashMap<>();
         for(char c : word.toCharArray()){
             if(count.containsKey(c))

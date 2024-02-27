@@ -8,13 +8,10 @@ public class FurthestBuildingYouCanReach {
         int i = 0;
         while(i < heights.length - 1){
             int dis = heights[i+1]-heights[i];
-            if(dis <= 0)
-                i++;
-            else{
+            if(dis > 0){
                 if(dis <= bricks){
                     bricks -= dis;
                     maxes.add(dis);
-                    i++;
                 }else{
                     if(ladders == 0)
                         return i;
@@ -28,9 +25,9 @@ public class FurthestBuildingYouCanReach {
                         bricks -= dis;
                         ladders--;
                     }
-                    i++;
                 }
             }
+            i++;
         }
         return i;
     }

@@ -4,26 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0df59c-febe-49ff-b480-33d9ea2d48e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/RemoveLetterToEqualizeFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/FurthestBuildingYouCanReach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/LengthOfLongestSubstring.java" afterDir="false" />
+    <list default="true" id="ee0df59c-febe-49ff-b480-33d9ea2d48e4" name="Changes" comment="f">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/BestTimeToBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/easy/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/BestTimeToBuyAndSellStocksII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/HIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/InsertDeleteGetRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/medium/FurthestBuildingYouCanReach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/medium/FurthestBuildingYouCanReach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/koren/IdeaProjects/untitled3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/koren/IdeaProjects/untitled3&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FurthestBuildingYouCanReach">
-    <configuration name="FurthestBuildingYouCanReach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.medium.FurthestBuildingYouCanReach" />
-      <module name="untitled3" />
+}</component>
+  <component name="RunManager" selected="Application.GasStation">
+    <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.medium.GasStation" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.problems.medium.*" />
@@ -71,9 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.easy.LongestCommonPrefix" />
-      <module name="untitled3" />
+    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.medium.HIndex" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.problems.medium.*" />
@@ -84,9 +83,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLetterToEqualizeFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.easy.RemoveLetterToEqualizeFrequency" />
-      <module name="untitled3" />
+    <configuration name="InsertDeleteGetRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.medium.InsertDeleteGetRandom" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.problems.medium.*" />
@@ -97,9 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.easy.RomanToInteger" />
-      <module name="untitled3" />
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.medium.JumpGame" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.problems.medium.*" />
@@ -110,26 +109,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.easy.ValidParentheses" />
-      <module name="untitled3" />
+    <configuration name="JumpGameII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.medium.JumpGameII" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.problems.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Leetcode" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FurthestBuildingYouCanReach" />
-        <item itemvalue="Application.RemoveLetterToEqualizeFrequency" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.GasStation" />
+        <item itemvalue="Application.InsertDeleteGetRandom" />
+        <item itemvalue="Application.HIndex" />
+        <item itemvalue="Application.JumpGameII" />
+        <item itemvalue="Application.JumpGame" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1707652969845</updated>
     </task>
+    <task id="LOCAL-00001" summary="f">
+      <created>1708257377924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708257377924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,29 +175,21 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/hard/MedianOfTwoSortedArrays.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled3$FurthestBuildingYouCanReach.ic" NAME="FurthestBuildingYouCanReach Coverage Results" MODIFIED="1708197385641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.problems.medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/untitled3$InsertDeleteGetRandom.ic" NAME="InsertDeleteGetRandom Coverage Results" MODIFIED="1708546098753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.problems.medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/untitled3$RotateArray.ic" NAME="RotateArray Coverage Results" MODIFIED="1708436619862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.problems.medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/untitled3$HIndex.ic" NAME="HIndex Coverage Results" MODIFIED="1708544702934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.problems.medium.*</FILTER>
     </SUITE>
   </component>

@@ -3,7 +3,7 @@ package org.problems.medium;
 import java.util.HashMap;
 
 public class LengthOfLongestSubstring {
-    public static int lengthOfLongestSubstring(String s) {
+    public int lengthOfLongestSubstring(String s) {
         HashMap<Character, Boolean> passed = new HashMap<>();
         int max = 0;
         int cur = 0;
