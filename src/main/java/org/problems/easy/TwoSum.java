@@ -7,7 +7,7 @@ class TwoSum {
         for(int i=0; i < N; i++)
             indexes[i] = i;
 
-            // o(NLogN)
+        // o(NLogN)
         quickSort(indexes, nums, 0, N - 1);
         int[] ansIndexes = new int[]{0,1};
         int max1 = N-1;
